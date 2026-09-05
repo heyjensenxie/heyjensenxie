@@ -2,18 +2,8 @@
 
 **AI Full-Stack Engineer · Code Enthusiast**
 
-Building things with **code and AI**.
+I enjoy writing code, exploring AI, and turning ideas into things that actually work.
 
-Interested in full-stack engineering, AI Agents, MCP, developer tools and software architecture.
+Interested in full-stack development, software architecture, and engineering practices.
 
-### Currently building
-
-🚀 [MCP Conductor](https://github.com/heyjensenxie/mcp-conductor) — An MCP Gateway & Control Plane
-
-### Writing
-
-✍️ [byteboost.cn](https://byteboost.cn)
-
----
-
-> Still curious. Still coding. Still building.
+> Stay curious. Keep coding.
