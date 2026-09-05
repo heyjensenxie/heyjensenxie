@@ -1,10 +1,19 @@
 # Hi, I'm Jensen 👋
 
-**AI Full-Stack Engineer & Code Enthusiast**
+**AI Full-Stack Engineer · Code Enthusiast**
 
-I enjoy building things with code, exploring new technologies,
-and turning ideas into real products with AI.
+Building things with **code and AI**.
 
-From backend systems and frontend experiences to AI agents,
-developer tools and infrastructure — I like understanding how things work
-and making them work better.
+Interested in full-stack engineering, AI Agents, MCP, developer tools and software architecture.
+
+### Currently building
+
+🚀 [MCP Conductor](https://github.com/heyjensenxie/mcp-conductor) — An MCP Gateway & Control Plane
+
+### Writing
+
+✍️ [byteboost.cn](https://byteboost.cn)
+
+---
+
+> Still curious. Still coding. Still building.
